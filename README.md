@@ -1,18 +1,18 @@
-## 🚀 Full Stack Developer focado em Front-end
+## 🚀 Full Stack Developer focused on Front-end
 
-Olá! Meu nome é **Matheus**, tenho 22 anos e sou Desenvolvedor Full Stack.  
-Atualmente, meu foco está no **Front-end**, onde curto dar vida às interfaces com **React**, **Next.js** e **Tailwind**. Gosto de criar experiências bonitas, rápidas e que realmente façam sentido pra quem usa.
+Hello! My name is **Matheus**, I'm 22 years old, and I'm a Full Stack Developer.
+Currently, my focus is on the **Front-end**, where I enjoy bringing interfaces to life with **React**, **Next.js**, and **Tailwind**. I enjoy creating beautiful, fast experiences that truly resonate with users.
 
-🛠️ **Tecnologias do dia a dia**:  
+🛠️ **Everyday technologies**:  
 React.js • Next.js • TailwindCSS • PHP
 
 💻 **Ferramentas favoritas**:  
 VS Code • Git • Terminal com tema escuro (claro 😎)
 
-🧠 Sempre aprendendo, sempre codando — tentando deixar o código mais bonito que o design (ou pelo menos tentando).
+🧠Always learning, always coding — trying to make the code more beautiful than the design (or at least trying).
 
-📬 **Quer trocar uma ideia?**  
-Me chama [aqui por e-mail](mailto:matheusmaat@gmail.com) ou no [LinkedIn](https://www.linkedin.com/in/matheusmaat)
+📬 **Want to exchange ideas?**  
+Call me [here by email](mailto:matheusmaat@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/matheusmaat)
 
 ---
 
@@ -24,7 +24,7 @@ Me chama [aqui por e-mail](mailto:matheusmaat@gmail.com) ou no [LinkedIn](https:
 </p>
 
 
-## 🌐 Redes Sociais
+## 🌐 Social Media
 
 <p align="left"> <a href="https://www.linkedin.com/in/matheusmaat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 ---
