@@ -1,77 +1,112 @@
-## 🚀 Full Stack Developer focused on Front-end
+# 🚀 Matheus — Full Stack Developer
 
-Hello! My name is **Matheus**, I'm 22 years old, and I'm a Full Stack Developer.
-Currently, my focus is on the **Front-end**, where I enjoy bringing interfaces to life with **React**, **Next.js**, and **Tailwind**. I enjoy creating beautiful, fast experiences that truly resonate with users.
-
-🛠️ **Everyday technologies**:  
-React.js • Next.js • TailwindCSS • PHP
-
-🧠Always learning, always coding — trying to make the code more beautiful than the design (or at least trying).
-
-📬 **Want to exchange ideas?**  
-Call me [here by email](mailto:matheusmaat@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/matheusmaat)
+<p align="center">
+  <em>Hello! I'm a 22-year-old Full Stack Developer with a passionate focus on the <b>Frontend</b>. <br> My specialty is building intuitive, high-performance digital experiences using technologies like <b>React, Next.js, and Tailwind CSS</b> to transform designs into fast, responsive interfaces that users love.</em>
+</p>
 
 ---
 
-### Skills
+### 🛠️ Tech Stack
 
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/> 
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/> 
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36"/> 
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="36" height="36"/> 
-    </a>
-    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="NextJs" width="36" height="36"/> 
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="36" height="36"/> 
-    </a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" width="36" height="36"/> 
-    </a>
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="36" height="36"/> 
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="36" height="36"/> 
-    </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="36" height="36"/> 
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36"/> 
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/> 
-    </a>
-    <a href="https://supabase.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="36" height="36"/> 
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/> 
-    </a>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+          <br>JavaScript
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+          <br>TypeScript
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
+          <br>React
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+          <br>Next.js
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
+          <br>Tailwind CSS
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
+          <br>React Native
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+          <br>Node.js
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+          <br>Express
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+          <br>PHP
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+          <br>PostgreSQL
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+          <br>MongoDB
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+          <br>Docker
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
-## 🌐 Social Media
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/matheusmaat" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
-    </a>
-</p>
 ---
 
+### 📊 My GitHub Stats
 
-## 📊 GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maatheuus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Matheus's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maatheuus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maatheuus&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maatheuus&show_icons=true&theme=tokyonight&hide_border=true)
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:matts14smkd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/matheusmaat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
