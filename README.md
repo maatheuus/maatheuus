@@ -75,5 +75,3 @@ Call me [here by email](mailto:matheusmaat@gmail.com) or on [LinkedIn](https://w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maatheuus&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maatheuus&show_icons=true&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maatheuus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
