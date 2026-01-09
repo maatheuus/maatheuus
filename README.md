@@ -1,4 +1,4 @@
-# 🚀 Matheus — Full Stack Developer
+# Matheus — Full Stack Developer
 
 <p align="center">
   <em>Hello! I'm a 22-year-old Full Stack Developer with a passionate focus on the <b>Frontend</b>. <br> My specialty is building intuitive, high-performance digital experiences using technologies like <b>React, Next.js, and Tailwind CSS</b> to transform designs into fast, responsive interfaces that users love.</em>
@@ -9,7 +9,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="96">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
