@@ -1,103 +1,56 @@
-# Matheus — Full Stack Developer
+<!-- Animated header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&fontColor=ffffff" width="100%" />
+</div>
+
+<h1 align="center">Matheus</h1>
+<p align="center">
+  <samp>Full Stack Developer &nbsp;·&nbsp; Frontend Specialist</samp>
+</p>
 
 <p align="center">
-  <em>Hello! I'm a 22-year-old Full Stack Developer with a passionate focus on the <b>Frontend</b>. <br> My specialty is building intuitive, high-performance digital experiences using technologies like <b>React, Next.js, and Tailwind CSS</b> to transform designs into fast, responsive interfaces that users love.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=4f98a3&center=true&vCenter=true&width=440&lines=Building+fast%2C+intuitive+digital+experiences;React+%7C+Next.js+%7C+Tailwind+CSS;22+y.o.+%7C+Full+Stack+%7C+Frontend-focused" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### About
+
+22-year-old Full Stack Developer with a strong focus on **Frontend**. I specialize in turning designs into fast, responsive interfaces that users love — using **React**, **Next.js**, and **Tailwind CSS** as my core toolkit.
+
+---
+
+### Tech Stack
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-          <br>JavaScript
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-          <br>TypeScript
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
-          <br>React
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-          <br>Next.js
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
-          <br>Tailwind CSS
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
-          <br>React Native
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-          <br>Node.js
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-          <br>Express
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-          <br>PHP
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-          <br>PostgreSQL
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-          <br>MongoDB
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-          <br>Docker
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,reactnative&theme=dark&perline=6" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,postgresql,mongodb,docker&theme=dark&perline=6" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
+### Focus
+
+- Building modern frontend interfaces with React and Next.js
+- Creating responsive and intuitive user experiences
+- Improving performance, accessibility, and clean UI architecture
+
+---
+
+### Connect
 
 <p align="center">
   <a href="mailto:matts14smkd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-1c1b19?style=flat-square&logo=gmail&logoColor=4f98a3" />
   </a>
-  <a href="https://www.linkedin.com/in/matheusmaat">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/matheusmaat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1c1b19?style=flat-square&logo=linkedin&logoColor=4f98a3" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%" />
+</div>
