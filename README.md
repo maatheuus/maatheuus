@@ -16,7 +16,7 @@
 
 ### About
 
-22-year-old Full Stack Developer with a strong focus on **Frontend**. I specialize in turning designs into fast, responsive interfaces that users love — using **React**, **Next.js**, and **Tailwind CSS** as my core toolkit.
+23-year-old Full Stack Developer with a strong focus on **Frontend**. I specialize in turning designs into fast, responsive interfaces that users love — using **React**, **Next.js**, and **Tailwind CSS** as my core toolkit.
 
 ---
 
